@@ -1,4 +1,4 @@
-# JSON Sevice
+# JSON Service
 
   The 'JsonService' wraps a class instance and makes all its public methods callable through HTTP,
   accepting named parameters and returning the result JSON encoded.
