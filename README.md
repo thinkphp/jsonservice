@@ -65,4 +65,5 @@ Now make an HTTP call to flickrservice.php/get?text=beach and you will get this 
 
 ## MIT license
 
-This project is licensed under an [MIT license][http://www.opensource.org/licenses/mit-license.php].
+This project is licensed under an [MIT license][].
+[]: http://www.opensource.org/licenses/mit-license.php
