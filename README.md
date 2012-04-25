@@ -24,7 +24,7 @@ In this example we'll create a flickr service **flickrservice.php**
             return $this->build_photos($photos->results->photo); 
           } 
 
-          public function build_photos($photos) {
+          private function build_photos($photos) {
 
                  $output = '<ul>';
 
